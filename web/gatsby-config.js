@@ -18,7 +18,8 @@ module.exports = {
         watchMode: true,
         overlayDrafts: true
       }
-    }
+    }, 
+    'gatsby-plugin-postcss'
   ]
 }
 
